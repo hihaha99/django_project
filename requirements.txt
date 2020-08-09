@@ -1,5 +1,4 @@
 appdirs==1.4.4
-asgiref @ file:///tmp/build/80754af9/asgiref_1594338739818/work
 astroid==2.3.3
 attrs==19.3.0
 Babel==2.7.0
